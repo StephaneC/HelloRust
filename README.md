@@ -1,2 +1,5 @@
 # HelloRust
-Rust Samples 
+Just Rust Samples to play
+
+* Hello world
+* Calc
